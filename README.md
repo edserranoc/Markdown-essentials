@@ -42,7 +42,8 @@ Jupyter Notebooks support Markdown cells, allowing users to add formatted text, 
 **Examples:**
 
 
-<span style="color:#4F959D">Highlighting Text:</span>.
+<span style="color:#4F959D">Highlighting Text:</span>
+
 - <mark>Highlighted text</mark> <br>
 - <mark style="background-color: #4F959D">Highlighted text</mark> <br> 
 - `Highlighted text`
