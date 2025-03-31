@@ -10,7 +10,7 @@ This guide will help you master Markdown with practical examples, useful tips, a
 
 Whether you are a beginner or looking to enhance your Markdown skills, this tutorial will provide everything you need to make your content stand out. 
 
-> [!TIP]Support & Feedback
+> [!TIP]
 > ⭐ **If you find this repository helpful, consider giving it a star!** It helps others discover the project and motivates further improvements. :frog::dog:✨
 
 
