@@ -41,7 +41,11 @@ Jupyter Notebooks support Markdown cells, allowing users to add formatted text, 
 
 **Examples:**
 
-<font color="#4F959D">Highlighting Text:</font>
+<style>
+ss { color: #4F959D}
+</style>
+
+<ss>Highlighting Text:</ss>
 - <mark>Highlighted text</mark> <br>
 - <mark style="background-color: #4F959D">Highlighted text</mark> <br> 
 - `Highlighted text`
@@ -56,6 +60,7 @@ def sum(a:float,b:float)->float:
 ```
 
 <font color="#4F959D">Tex Formulas:</font>
+
 $$ f(\mathbf{x}) = \sum_{i=1}^{n-1} \left[100(x_{i+1} - x_i^2)^2 + (1-x_i)^2 \right],
 \quad n\geq 2.$$
 
